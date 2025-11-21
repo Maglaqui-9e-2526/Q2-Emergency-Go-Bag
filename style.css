@@ -1,0 +1,13 @@
+
+.hero-image {
+    background-image: url(fall-print.jpg);
+}
+
+.container{
+    border: 1px solid brown;
+}
+
+.hero-text{
+    color: white;
+    text-align: center;
+}
